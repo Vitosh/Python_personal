@@ -24,7 +24,7 @@ class SiteCrawler():
                 links_this_level = links_this_level.union(new_set)
 
             links_previous_level = links_this_level.copy()
-            self.links.union(links_this_level)
+            self.links = self.links.union(links_this_level)
 
 
     def get_links(self, url):    
