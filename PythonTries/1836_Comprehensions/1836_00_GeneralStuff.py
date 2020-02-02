@@ -6,15 +6,20 @@ def main():
     no_vowels = ''.join([x for x in text if x not in vowels])
     print(no_vowels)
 
+    #print every second letter
+    every_second = text[::2]
+    print(every_second)
+    every_second = "".join([x for i, x in enumerate(text) if i % 2 == 1])
+    print(every_second)
+
     #list in list
-    only_vowels = ''.join([x for x in text if x  in vowels])
+    only_vowels = "".join([x for x in text if x in vowels])
     print(only_vowels)
 
     #dictionary from a string
     letters = list(text)
     occurrences = {char: letters.count(char) for char in letters}
     print(occurrences)
-
     char_dict = {char: ord(char) for char in letters}
     print(char_dict)
 
@@ -30,7 +35,7 @@ def main():
     matrix3D = [[[j for j in range(10,12)] for i in range(2)] for z in range(2)]
     print(matrix3D)
 
-    #flattenning a 2D matrix:
+    #2D matrix to list:
     flattened = [num for sublist in matrix2D for num in sublist]
     print(flattened)
 
@@ -39,16 +44,14 @@ def main():
     set_of_other_numbers = [num for num in range(2, 20)]
     divisable = [num for num in numbers if any([num % x == 0 for x in set_of_other_numbers])]
     print("divisable: {0}\n".format(divisable))
-    
-    #non-divisable method 1
+
+    #numbers, non divisable by a set of other numbers
     non_divisable =  [num for num in numbers if all([num % x != 0 for x in set_of_other_numbers])]
     print(non_divisable)
     
-    #non-divisable method 2
+    #numbers, non divisable by a set of other numbers, simple
     non_divisable = [num for num in numbers if num not in divisable]
     print(non_divisable)
-
-
 
 if __name__ == "__main__":
     main()
