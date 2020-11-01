@@ -1,0 +1,15 @@
+{% extends 'partials/site.html' %}
+{% block site_content %}
+<div class="container">
+    <h1>Create Recipe</h1>
+    <div class="items-container">
+        <div class="item">
+            <form method="POST" action="{% url 'recipe create' %}">
+                {{ form }}
+                {% csrf_token %}
+                <input type="submit" value="Create">
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

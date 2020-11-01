@@ -1,0 +1,21 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/static/css/style.css">
+        <link rel="icon" type="image/png" href="/static/images/chef.png"/>
+        <title>Recipes</title>
+    </head>
+
+    <body>
+    <nav>
+        <ul>
+            <img src="/static/images/chef.png" alt="chef">
+            <li class="title"><a href="{% url 'index' %}">Recipes</a></li>
+            <li><a href="{% url 'recipe create' %}">Add Recipe</a></li>
+        </ul>
+    </nav>
+    {% block site_content %}
+    {% endblock %}
+    </body>
+</html>

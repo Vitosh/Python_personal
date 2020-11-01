@@ -1,0 +1,28 @@
+{% extends 'partials/site.html' %}
+{% block site_content %}
+<div class="container">
+    <h1>My Recipes</h1>
+    {% if recipes_present %}
+        <div class="items-container">
+            {% for recipe in recipes %}
+                <div class="item">
+                    <h2>{{ recipe.title }}</h2>
+                    <img class="detail-img" src={{ recipe.image_url }} alt="recipe-image">
+                    <div class="recipe-info">
+                        {{ recipe.description }}
+                    </div>
+                    <div class="buttons-container">
+                        <a class="button detail" href="{% url 'recipe details' recipe.id %}">Details</a>
+                        <a class="button edit" href={% url 'recipe edit' recipe.id %}>Edit</a>
+                        <a class="button delete" href={% url 'recipe delete' recipe.id %}>Delete</a>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+
+    {% else %}
+        <h2>There are no recipes.</h2>
+    {% endif %}
+
+</div>
+{% endblock %}
