@@ -4,4 +4,4 @@
 
 ### Thank you for watching!
 :smile::sunny::moon:<br>
-:rose:🌴::dragon:
+:rose:🌴:dragon:
