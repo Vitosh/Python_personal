@@ -1,6 +1,6 @@
 # Gradient-Descent Code
 
-## YouTube video
+## YouTube video link:
 
 ## Excel model:
 ![Excel](excel-model.jpg)
