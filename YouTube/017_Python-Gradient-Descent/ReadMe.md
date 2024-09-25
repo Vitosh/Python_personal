@@ -3,4 +3,4 @@
 ## YouTube video
 
 ## Excel model:
-[Excel](excel-model.jpg)
+[Excel](/excel-model.jpg)
