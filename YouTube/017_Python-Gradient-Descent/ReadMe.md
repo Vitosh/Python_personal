@@ -1,13 +1,7 @@
 # Gradient-Descent Code
 
 ## YouTube video link:
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=yemzSJbhEWtIAjjA">
-         <img src="https://img.youtube.com/vi/yemzSJbhEWtIAjjA/0.jpg" style="width:100%;">
-      </a>
-</div>
-
-
+https://youtu.be/o-1Rf3845Bo?si=yemzSJbhEWtIAjjA
 
 ## Excel model:
 ![Excel](excel-model.jpg)
