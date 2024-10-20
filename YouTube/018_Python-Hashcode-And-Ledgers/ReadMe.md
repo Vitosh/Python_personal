@@ -1,3 +1,5 @@
 # Hashcodes and Ledgers in Blockchain
 ## A simple, working explanation about hashcode and ledgers.
-## A video is available somewhere in YouTube :)
+
+The video is here:
+[https://www.youtube.com/watch?v=v5xE-KlWG7g]
