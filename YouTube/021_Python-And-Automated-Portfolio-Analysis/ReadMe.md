@@ -1,3 +1,4 @@
 # Python And Automated Portfolio Analysis
 
-![https://www.vitoshacademy.com/automated-stock-diagrams-with-python](https://www.vitoshacademy.com/automated-stock-diagrams-with-python/)
+
+[Automated Stock Diagrams with Python](https://www.vitoshacademy.com/automated-stock-diagrams-with-python/)
