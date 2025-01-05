@@ -3,3 +3,4 @@
 ## YouTube video:
 
 ## VitoshAcademy.com article:
+ - https://www.vitoshacademy.com/rule-of-72
