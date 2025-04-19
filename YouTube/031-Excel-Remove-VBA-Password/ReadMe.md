@@ -1,5 +1,4 @@
-The data in cracker.xlsb is from here:
-
+The code residing in cracker.xlsb is from here:
 https://stackoverflow.com/questions/1026483/is-there-a-way-to-crack-the-password-on-an-excel-vba-project
 
 Simply run the "Unprotecting" Sub and it will do its magic! 
