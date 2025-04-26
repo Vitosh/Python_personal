@@ -1,7 +1,7 @@
 # Python - Simple Stock Market Analysis
 
 ## YouTube:
-https://www.youtube.com/watch?v=m0ayASmrZmE
+* https://www.youtube.com/watch?v=m0ayASmrZmE
 
 ## VitoshAcademy:
-Here!
+* https://www.vitoshacademy.com/python-simple-stock-analysis-with-yfinance/
