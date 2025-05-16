@@ -24,3 +24,5 @@ Old implementations from September 2015:
  * The light-yellow cells are neighbors, that are not explored.
  * The dark-yellow cells are not explored, not neighbors.
  * The purple cells are explored.
+
+YouTube video - https://www.youtube.com/watch?v=aKsLs87uv2g
