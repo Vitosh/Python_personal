@@ -18,9 +18,9 @@ Old implementations from September 2015:
 * https://www.vitoshacademy.com/vba-a-search-algorithm-with-vba-teil-zwei/
 
 ![here](pics/make_problems_dijkstra.jpg)
-Note:
-The blue cells are the shortest path.
-The gray cells are obstacles.
-The light-yellow cells are neighbors, that are not explored.
-The dark-yellow cells are not explored, not neighbors.
-The purple cells are explored.
+<br>Notes:
+ * The blue cells are the shortest path.
+ * The gray cells are obstacles.
+ * The light-yellow cells are neighbors, that are not explored.
+ * The dark-yellow cells are not explored, not neighbors.
+ * The purple cells are explored.
