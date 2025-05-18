@@ -26,3 +26,4 @@ Old implementations from September 2015:
  * The purple cells are explored.
 
 YouTube video - https://www.youtube.com/watch?v=aKsLs87uv2g
+YouTube video only with maze solving, no talking - https://youtu.be/yAx6QGoOdIs?si=UnbMZT4GfgsjAvAD
