@@ -25,5 +25,6 @@ Old implementations from September 2015:
  * The dark-yellow cells are not explored, not neighbors.
  * The purple cells are explored.
 
-YouTube video - https://www.youtube.com/watch?v=aKsLs87uv2g
-YouTube video only with maze solving, no talking - https://youtu.be/yAx6QGoOdIs?si=UnbMZT4GfgsjAvAD
+### YouTube videos
+ * With explanations - https://youtube.com/watch?v=aKsLs87uv2g
+ * Only with maze solving, no talking - https://youtu.be/yAx6QGoOdIs?si=UnbMZT4GfgsjAvAD
