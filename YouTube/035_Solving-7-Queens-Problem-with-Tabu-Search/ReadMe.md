@@ -6,4 +6,4 @@ https://github.com/Optimization-Algorithms-Book/Code-Listings/blob/main/Chapter%
 
 https://www.manning.com/books/optimization-algorithms
 
-:cat::dog::python:
+🐱🐶🐍
