@@ -1,4 +1,4 @@
-Solving the 7 queens problem with Tabu Search and Python
+# Solving the 7 queens problem with Tabu Search and Python
 
 https://www.vitoshacademy.com/python-solving-7-queen-problem-with-tabu-search/
 
