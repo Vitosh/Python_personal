@@ -1,8 +1,10 @@
 # Docker Basics
 
-## YouTube Video:
+## YouTube:
+https://youtu.be/gY8BUqdomfE
 
-## VitoshAcademy link
+## VitoshAcademy
+https://www.vitoshacademy.com/docker-python-crud-api-excel-vba-all-for-beginners/
 
 ## Ways to display the data:
 
@@ -17,4 +19,5 @@
 
  * With Chrome:<p>
 ![img](pics/display-chrome.JPG)<p>
+
 
