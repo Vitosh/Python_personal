@@ -1,10 +1,10 @@
-Docker Basics
+# Docker Basics
 
-# YouTube Video:
+## YouTube Video:
 
-# VitoshAcademy link
+## VitoshAcademy link
 
-# Ways to display the data:
+## Ways to display the data:
 
  * With bash:<p>
 ![img](pics/display-bash.JPG)<p>
@@ -17,3 +17,4 @@ Docker Basics
 
  * With Chrome:<p>
 ![img](pics/display-chrome.JPG)<p>
+
