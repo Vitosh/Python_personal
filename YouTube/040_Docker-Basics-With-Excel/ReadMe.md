@@ -6,6 +6,8 @@
 ## VitoshAcademy blog
 [https://www.vitoshacademy.com/docker-basics-in-excel-with-vba-full-crud-demo/](https://www.vitoshacademy.com/docker-basics-in-excel-with-vba-full-crud-demo/)
 
+## Code in VBA
+
 * `SeedTodos()` - quickly inserts a few sample todos into the API, so we don’t start from an empty sheet.
 * `ListTodosToSheet()` - pulls all todos into Sheet1. It writes ID, Title, and Completed columns, so you can see the live state.
 * `DumpTodosToImmediate()` - prints the same list into the VBA Immediate Window (Ctrl+G). Handy for quick debugging.
@@ -18,3 +20,4 @@
 * `ListTodosToSheet()` - refresh the sheet after changes to confirm results.
 
 * `PushSheetToApi()` - the powerful one: reads rows from Excel (ID, Title, Completed, Action) and syncs them back to the API. That way you can create, update, or delete tasks directly from the sheet.
+
