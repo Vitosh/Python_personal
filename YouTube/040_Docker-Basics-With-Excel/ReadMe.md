@@ -18,6 +18,6 @@
 * `DeleteTodo 1` - removes the todo with ID=1.
 * `DeleteAllTodos()` - wipes everything in the list (careful with this one :)).
 * `ListTodosToSheet()` - refresh the sheet after changes to confirm results.
-
 * `PushSheetToApi()` - the powerful one: reads rows from Excel (ID, Title, Completed, Action) and syncs them back to the API. That way you can create, update, or delete tasks directly from the sheet.
+
 
