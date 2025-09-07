@@ -10,4 +10,5 @@ Read the detailed article on VitoshAcademy:
 
 ## 🔑 What you'll learn
 - Correlation with Python!
-:fun::sun::yacht:
+😄🐈🐯
+
