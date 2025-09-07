@@ -6,9 +6,10 @@ Watch the full tutorial on YouTube:
 
 ## 📝 Blog Article  
 Read the detailed article on VitoshAcademy:  
-👉 [Python Correlation](https://www.vitoshacademy.com/correlation-explained-with-python/)  
+👉 [Correlation - explained with 🐍](https://www.vitoshacademy.com/correlation-explained-with-python/)  
 
 ## 🔑 What you'll learn
 - Correlation with Python!
 😄🐈🐯
+
 
