@@ -6,4 +6,5 @@ https://xgboost.readthedocs.io/en/latest/tutorials/model.html
 
 # XGBoost in VitoshAcademy blog:
 To be written 
-:sun::cat::dog:
+
+🇦🇷 🐱 🦈
