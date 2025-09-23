@@ -5,8 +5,11 @@
 4) Always plot the data, print the learned formulas, and compare models at your real x values.
 
 # YouTube video link
-link
+[link](https://youtu.be/nYSQNi1kAV4)
 
 # Desmos Link and picture
 [https://www.desmos.com/calculator/bw90fdexbt](https://www.desmos.com/calculator/bw90fdexbt)
 ![](desmos.jpg)
+
+# Wikipedia link for triangular numbers
+https://en.wikipedia.org/wiki/Triangular_number
