@@ -7,8 +7,14 @@ https://data.bangtech.com/algorithm/switch_frogs_to_the_opposite_side.htm
 https://www.vitoshacademy.com/frog-leap-puzzle-with-depth-first-search-dfs/
 
 ## The YouTube video is here:
-https://youtu.be/DVgqA8-c1oI?si=lh82Im7NktWnPS7J
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=DVgqA8-c1oI">
+         <img src="https://img.youtube.com/vi/DVgqA8-c1oI/0.jpg" style="width:100%;">
+      </a>
+</div>
+
 
 🐸🐸🐸🎴🐸🐸🐸
+
 
 
