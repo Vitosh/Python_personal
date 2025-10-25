@@ -3,10 +3,11 @@
 This is the python DFS implementation of the frog jump game, available here:
 https://data.bangtech.com/algorithm/switch_frogs_to_the_opposite_side.htm
 
-The VitoshAcademy article is here:
+## The VitoshAcademy article is here:
 https://www.vitoshacademy.com/frog-leap-puzzle-with-depth-first-search-dfs/
 
-The YouTube video is here:
+## The YouTube video is here:
 coming!
 
 🐸🐸🐸🎴🐸🐸🐸
+
