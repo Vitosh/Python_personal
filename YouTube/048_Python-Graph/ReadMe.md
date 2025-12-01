@@ -21,9 +21,10 @@
 
 ## Graph Algorithms
  * ### [Depth-First Search](048-Graph-DFS.ipynb)
-    * #### YouTube - COMING!
-    * #### VitoshAcademy.com article - COMING!
+    * #### YouTube - https://youtu.be/tNVU9HSyVxE
+    * #### VitoshAcademy.com article - https://www.vitoshacademy.com/depth-first-search-dfs-algorithm-with-python/
 🌵🐈☀️🌕
+
 
 
 
