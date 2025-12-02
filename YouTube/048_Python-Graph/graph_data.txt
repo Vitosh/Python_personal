@@ -1,0 +1,44 @@
+19 21
+A B 1
+A C 5
+A D 2
+B E 1
+E F 1
+F P 50
+C G 2
+G H 2
+H P 2
+D I 1
+I J 1
+J K 1
+K L 1
+L M 1
+M N 1
+N O 1
+O P 100
+D D2 1
+D2 D3 1
+X Y 5
+Y Z 5
+A 50
+B 5
+C 20
+D 45
+E 4
+F 3
+G 15
+H 10
+I 40
+J 35
+K 30
+L 25
+M 20
+N 15
+O 5
+D2 50
+D3 50
+P 0
+X 99
+Y 88
+Z 77
+A P
