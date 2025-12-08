@@ -27,7 +27,12 @@
  * ### [Breadth-First Search](048-Graph-BFS.ipynb)
     * #### YouTube - https://youtu.be/e0RBEHvAI_4
     * #### VitoshAcademy.com article - https://www.vitoshacademy.com/breadth-first-search-bfs-algorithm-with-python/
+  
+ * ### [Dijkstra's Algorithm](048-Graph-Dijkstra.ipynb)
+    * #### YouTube - link
+    * #### VitoshAcademy.com article - link
 🌵🐈☀️🌕
+
 
 
 
