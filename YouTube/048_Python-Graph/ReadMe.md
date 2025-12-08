@@ -29,9 +29,10 @@
     * #### VitoshAcademy.com article - https://www.vitoshacademy.com/breadth-first-search-bfs-algorithm-with-python/
   
  * ### [Dijkstra's Algorithm](048-Graph-Dijkstra.ipynb)
-    * #### YouTube - link
-    * #### VitoshAcademy.com article - link
-🌵🐈☀️🌕
+    * #### YouTube - https://youtu.be/VjA_VFO_I6g
+    * #### VitoshAcademy.com article - https://www.vitoshacademy.com/dijkstras-graph-algorithm-with-python/
+🌵🐈☀️🌕🥇🧮
+
 
 
 
