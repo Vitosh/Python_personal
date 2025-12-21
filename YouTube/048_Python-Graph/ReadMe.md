@@ -34,8 +34,9 @@
   
 * ### [A-Star Algorithm](048-Graph-A-Star.ipynb)
     * #### YouTube - coming!
-    * #### VitoshAcademy.com article - coming!
+    * #### VitoshAcademy.com article -https://www.vitoshacademy.com/python-a-star-search-in-graph/
 🌵🐈☀️🌕🥇🧮
+
 
 
 
