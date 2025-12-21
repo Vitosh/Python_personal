@@ -31,7 +31,12 @@
  * ### [Dijkstra's Algorithm](048-Graph-Dijkstra.ipynb)
     * #### YouTube - https://youtu.be/VjA_VFO_I6g
     * #### VitoshAcademy.com article - https://www.vitoshacademy.com/dijkstras-graph-algorithm-with-python/
+  
+* ### [A-Star Algorithm](048-Graph-A-Star.ipynb)
+    * #### YouTube - coming!
+    * #### VitoshAcademy.com article - coming!
 🌵🐈☀️🌕🥇🧮
+
 
 
 
