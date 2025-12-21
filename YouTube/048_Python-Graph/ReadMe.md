@@ -33,9 +33,10 @@
     * #### VitoshAcademy.com article - https://www.vitoshacademy.com/dijkstras-graph-algorithm-with-python/
   
 * ### [A-Star Algorithm](048-Graph-A-Star.ipynb)
-    * #### YouTube - coming!
+    * #### YouTube - https://youtu.be/OWS45W6qqDg
     * #### VitoshAcademy.com article -https://www.vitoshacademy.com/python-a-star-search-in-graph/
 🌵🐈☀️🌕🥇🧮
+
 
 
 
