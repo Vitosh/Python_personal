@@ -35,7 +35,12 @@
 * ### [A-Star Algorithm](048-Graph-A-Star.ipynb)
     * #### YouTube - https://youtu.be/OWS45W6qqDg
     * #### VitoshAcademy.com article -https://www.vitoshacademy.com/python-a-star-search-in-graph/
+ 
+* ### [Beam-Search Algorithm](048-Graph-Beam-Search.ipynb)
+    * #### YouTube - https://youtu.be/-rlHYNPQhyQ
+    * #### VitoshAcademy.com article - https://www.vitoshacademy.com/python-a-beam-search-in-graph/
 🌵🐈☀️🌕🥇🧮
+
 
 
 
