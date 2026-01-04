@@ -5,7 +5,7 @@ This repository contains the Python source code for the **VitoshAcademy** YouTub
 It implements the **k-Means Algorithm** entirely from scratch.
 
 ## 📺 Watch the Tutorial
-[**Click here to watch the full explanation on YouTube!**](https://youtu.be/h_kNmGRG7FU)
+[**YouTube Link**](https://youtu.be/h_kNmGRG7FU)
 
 ---
 
@@ -18,4 +18,5 @@ The algorithm automatically finds the optimal number of clusters using the **Elb
 ### 2. Final Clustering (k=2)
 ![Clustering Result](pics/kmeans_final.png)
 
-**Happy Coding!** 🐍:cat::dog:
+**Happy Coding!** 
+🐍🍏🥑
