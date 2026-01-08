@@ -386,7 +386,7 @@ webcolors==24.6.0
 webencodings==0.5.1
 websocket-client @ file:///C:/ci/websocket-client_1614804375980/work
 websockets==10.4
-Werkzeug==2.3.6
+Werkzeug==3.1.5
 widgetsnbextension @ file:///C:/ci/widgetsnbextension_1644991377168/work
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
 win-unicode-console==0.5
