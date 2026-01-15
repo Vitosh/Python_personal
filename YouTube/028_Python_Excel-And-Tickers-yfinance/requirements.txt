@@ -157,7 +157,7 @@ jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_16014907206
 jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
 jupyterlab_server==2.27.3
 kaggle==1.6.14
-keras==3.5.0
+keras==3.13.1
 keyring @ file:///C:/ci/keyring_1638531673471/work
 kiwisolver @ file:///C:/ci/kiwisolver_1653292407425/work
 lazy-object-proxy @ file:///C:/ci/lazy-object-proxy_1616529288960/work
