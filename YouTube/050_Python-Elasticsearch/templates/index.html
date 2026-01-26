@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VitoshAcademy Search</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; max-width: 900px; margin: 50px auto; background-color: #fafafa; }
+        .search-box { display: flex; gap: 10px; margin-bottom: 30px; }
+        input { padding: 15px; width: 100%; font-size: 18px; border: 1px solid #ddd; border-radius: 5px; }
+        button { padding: 15px 30px; font-size: 18px; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+        button:hover { background: #0056b3; }
+        
+        .result { background: white; padding: 20px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        
+        /* Link Styling */
+        .title { font-size: 20px; color: #1a0dab; text-decoration: none; font-weight: 600; display: block; margin-bottom: 8px;}
+        .title:hover { text-decoration: underline; }
+        
+        .snippet { color: #4d5156; font-size: 14px; line-height: 1.6; }
+        mark { background-color: #fff3cd; color: #333; padding: 2px; border-radius: 2px; font-weight: bold; }
+        .meta { font-size: 12px; color: #006621; margin-bottom: 5px; }
+    </style>
+</head>
+<body>
+
+    <h1 style="text-align: center; color: #333;">🔎 VitoshAcademy Search Engine</h1>
+    
+    <form method="POST" class="search-box">
+        <input type="text" name="search_term" value="{{ query }}" placeholder="Search documents or web pages..." autofocus>
+        <button type="submit">Search</button>
+    </form>
+
+    {% if query %}
+        <h3>Found {{ results|length }} results for "{{ query }}"</h3>
+    {% endif %}
+
+    {% for hit in results %}
+    <div class="result">
+        
+        {% if hit._source.url %}
+            <div class="meta">WEB • {{ hit._source.url[:60] }}...</div>
+            <a class="title" href="{{ hit._source.url }}" target="_blank">
+                🌐 {{ hit._source.title }}
+            </a>
+        {% else %}
+            <div class="meta">FILE • {{ hit._source.title }}</div>
+            <a class="title" href="/view/{{ hit._source.title }}" target="_blank">
+                📄 {{ hit._source.title }}
+            </a>
+        {% endif %}
+
+        <div class="snippet">
+            {% if hit.highlight %}
+                ... {{ hit.highlight.content[0] | safe }} ...
+            {% else %}
+                {{ hit._source.content[:400] }} ...
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+
+</body>
+</html>
