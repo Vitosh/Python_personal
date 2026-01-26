@@ -18,4 +18,7 @@ docker run --name kib01 --net elastic -p 5601:5601 -e "ELASTICSEARCH_HOSTS=http:
 https://youtu.be/Wucy4jbAi5g?si=pWFJ13wfUfBFW2mF
 
 ## VitoshAcademy:
+
 https://www.vitoshacademy.com/elastic-search-simple-introduction-and-web-app/
+
+👶🐶🎠
