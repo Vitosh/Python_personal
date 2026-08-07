@@ -8,3 +8,6 @@ https://www.vitoshacademy.com/the-perfect-hash-function/
 
 ## YouTube.com
 https://youtu.be/XzIYO30T4uY
+
+## Article from 1984
+https://dl.acm.org/doi/epdf/10.1145/828.1884
