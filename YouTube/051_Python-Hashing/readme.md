@@ -9,5 +9,5 @@ https://www.vitoshacademy.com/the-perfect-hash-function/
 ## YouTube.com
 https://youtu.be/XzIYO30T4uY
 
-## Article from 1984
+## Article - Michael L. Fredman, János Komlós, and Endre Szemerédi. 1984. Storing a Sparse Table with 0(1) Worst Case Access Time. J. ACM 31, 3 (July 1984), 538–544
 https://dl.acm.org/doi/epdf/10.1145/828.1884
