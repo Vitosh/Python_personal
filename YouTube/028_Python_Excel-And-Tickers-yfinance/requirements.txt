@@ -369,7 +369,7 @@ toolz @ file:///tmp/build/80754af9/toolz_1636545406491/work
 torch==2.0.1
 torchmetrics==1.0.0
 torchsummary==1.5.1
-tornado==6.3.2
+tornado==6.5.5
 tqdm @ file:///C:/b/abs_0axbz66qik/croots/recipe/tqdm_1664392691071/work
 traitlets==5.9.0
 Twisted @ file:///C:/Windows/Temp/abs_ccblv2rzfa/croots/recipe/twisted_1659592764512/work
