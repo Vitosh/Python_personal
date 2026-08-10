@@ -340,7 +340,7 @@ spyder-kernels @ file:///C:/ci/spyder-kernels_1647011408404/work
 SQLAlchemy @ file:///C:/Windows/Temp/abs_f8661157-660b-49bb-a790-69ab9f3b8f7c8a8s2psb/croots/recipe/sqlalchemy_1657867864564/work
 squarify==0.4.4
 statsmodels==0.13.2
-streamlit==1.41.1
+streamlit==1.54.0
 sympy @ file:///C:/ci/sympy_1647853873858/work
 tables==3.6.1
 tabulate @ file:///C:/ci/tabulate_1657619055201/work
