@@ -4,3 +4,5 @@
 * VitoshAcademy article: https://www.vitoshacademy.com/predict-wine-variety-from-text-embeddings-pytorch
 * Kaggle: https://www.kaggle.com/datasets/zynicide/wine-reviews/data
 * WineEnthusias: www.wineenthusiast.com
+
+🍷🍺🌕
