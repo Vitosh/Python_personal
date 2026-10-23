@@ -273,7 +273,7 @@ pyppeteer==1.0.2
 pyproj==3.6.0
 pyrsistent @ file:///C:/ci/pyrsistent_1636093225342/work
 PySocks @ file:///C:/ci/pysocks_1605307512533/work
-pytest==7.1.2
+pytest==9.0.3
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 python-json-logger==2.0.7
 python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
