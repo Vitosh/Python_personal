@@ -259,7 +259,7 @@ pyee==8.2.2
 pyerfa @ file:///C:/ci/pyerfa_1621560974055/work
 pyflakes @ file:///tmp/build/80754af9/pyflakes_1636644436481/work
 pygame==2.5.2
-Pygments==2.18.0
+Pygments==2.20.0
 PyHamcrest @ file:///tmp/build/80754af9/pyhamcrest_1615748656804/work
 PyJWT @ file:///C:/ci/pyjwt_1657511236979/work
 pylint @ file:///C:/Windows/TEMP/abs_518eqlbmoo/croots/recipe/pylint_1659110354241/work
