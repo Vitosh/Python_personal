@@ -97,7 +97,7 @@ fsspec @ file:///C:/Windows/TEMP/abs_a2mhnomvfy/croots/recipe/fsspec_16599722245
 future @ file:///C:/ci/future_1607568713721/work
 gast==0.6.0
 gensim @ file:///C:/ci/gensim_1646825438310/work
-geopandas==0.13.2
+geopandas==1.1.2
 gitdb==4.0.12
 GitPython==3.1.44
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
