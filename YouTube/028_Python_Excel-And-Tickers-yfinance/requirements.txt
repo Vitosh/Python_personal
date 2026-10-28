@@ -298,7 +298,7 @@ QtPy @ file:///C:/ci/qtpy_1662015096047/work
 queuelib==1.5.0
 referencing==0.35.1
 regex @ file:///C:/ci/regex_1658258307256/work
-requests==2.32.3
+requests==2.33.0
 requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
