@@ -281,7 +281,7 @@ python-lsp-jsonrpc==1.0.0
 python-lsp-server @ file:///tmp/build/80754af9/python-lsp-server_1648176833691/work
 python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
 python-snappy @ file:///C:/ci/python-snappy_1610133405910/work
-pytorch-lightning==2.0.4
+pytorch-lightning==2.6.1
 pytz==2024.2
 pyviz-comms @ file:///tmp/build/80754af9/pyviz_comms_1623747165329/work
 PyWavelets @ file:///C:/ci/pywavelets_1648728084106/work
